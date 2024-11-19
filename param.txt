@@ -1,0 +1,5 @@
+width: 20
+height: 20
+occupation_percentage: 0.8
+discr_attr_percentage: 0.5
+discrimination_rate: 0.4
